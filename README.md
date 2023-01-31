@@ -6,6 +6,14 @@ From camera we get only compressed images, what can cause bad keypoints detectio
 Task was to discover and compare different neural networks that can restore image.
 Most chalenging is to create suitable metric for comparing results.
 
+### Стек технологий:
+
+- python
+
+- opencv
+
+- colmap
+
 ### Datasets
 
 1. ground truth
